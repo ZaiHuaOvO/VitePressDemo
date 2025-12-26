@@ -4,6 +4,7 @@ import { defineConfig } from "vitepress";
 export default defineConfig({
   title: "VitePressDemo",
   description: "VitePressDemo Description",
+  // 设置base
   base: "/VitePressDemo/",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
